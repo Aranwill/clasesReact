@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Titulo from './components/Titulo';
-import logo from './images/logo512.png'; //con import
+// import logo from './images/logo512.png'; //con import
 import Lista from './components/Lista';
 import Busqueda from './components/Busqueda';
 import Contador from './components/Contador';
